@@ -11,6 +11,9 @@ dependencies:
     sdk: flutter
   sqflite: ^2.3.3
   path: ^1.9.0
+  # Suporte Desktop/Web
+  sqflite_common_ffi: ^2.3.2
+  sqflite_common_ffi_web: ^0.4.4
 
 dev_dependencies:
   flutter_test:
